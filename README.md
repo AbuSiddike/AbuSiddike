@@ -63,17 +63,17 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbuSiddike&show_icons=true&theme=tokyonight&hide_border=true" />
   
-| Metric | Stats |
-|--------|-------|
-| **Commits (2025)** | <img src="https://github-readme-stats.vercel.app/api?username=AbuSiddike&show_icons=true&count_private=true&hide=stars&include_all_commits=true&title_color=00C8FF&text_color=FFFFFF&icon_color=00C8FF&bg_color=0D1117&hide_border=true" width="450" /> |
-| **Most Used Languages** | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuSiddike&layout=compact&title_color=00C8FF&text_color=FFFFFF&bg_color=0D1117&hide_border=true" width="450" /> |
-| **Productivity Streak** | <img src="https://streak-stats.demolab.com?user=AbuSiddike&theme=dark&hide_border=true&background=0D1117&stroke=00C8FF&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF" width="450" /> |
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuSiddike&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-</div>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=AbuSiddike&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
