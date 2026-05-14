@@ -65,17 +65,19 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbuSiddike&show_icons=true&theme=radical" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuSiddike&layout=compact&theme=radical" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=AbuSiddike&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbuSiddike&theme=radical" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuSiddike&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AbuSiddike&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
